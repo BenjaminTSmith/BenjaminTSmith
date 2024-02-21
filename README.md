@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am a first-year college student who enjoys programming<br>and computer science. I am extremely passionate about<br>learning, and love solving problems. I am especially interested in<br>in the field of embedded systems, robotics, and machine learning.<br>
+I am a first-year college student who enjoys programming<br>and computer science. I am extremely passionate about<br>learning, and love solving problems. I am especially interested in<br>in the fields of embedded systems, robotics, and machine learning.<br>
 
 
 ## 🌐 Socials:
